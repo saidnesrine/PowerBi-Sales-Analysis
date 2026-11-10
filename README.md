@@ -136,7 +136,7 @@ This project was completed as part of a guided learning program. It provided pra
 
 ## Project Files
 
-projet_Ventes.pbix — Power BI report.
+sales.pbix — Power BI report.
 
 images/01_sales_monitoring.png — Sales monitoring dashboard.
 
