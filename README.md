@@ -134,13 +134,23 @@ Data visualization
 
 This project was completed as part of a guided learning program. It provided practical experience in developing Power BI reports, creating DAX measures, modeling data, and building interactive dashboards.
 
-## Project Files
+## 📊 Dashboard Preview
 
-sales.pbix — Power BI report.
+### 1. Sales Monitoring Dashboard
 
-images/01_sales_monitoring.png — Sales monitoring dashboard.
+This dashboard provides an overview of sales performance through key performance indicators, monthly sales trends, regional sales, category distribution, and company performance.
 
-images/02_canceled_sales.png — Cancelled sales dashboard.
+![Sales Monitoring Dashboard](image/sales_monitoring.png)
 
+### 2. Canceled Sales Dashboard
 
+This dashboard analyzes canceled orders, including cancellation rates, canceled sales amounts, product analysis, and cancellation distribution across regions and companies.
+
+![Canceled Sales Dashboard](image/canceled_sales.png)
+
+## 📁 Power BI Project File
+
+You can download the Power BI project file (.pbix) here:
+
+[📥 Download Power BI Project](PowerBi_Sales-Analysis/Sales.pbix)
   
