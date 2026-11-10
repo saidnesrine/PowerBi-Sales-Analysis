@@ -152,5 +152,5 @@ This dashboard analyzes canceled orders, including cancellation rates, canceled 
 
 You can download the Power BI project file (.pbix) here:
 
-[📥 Download Power BI Project](PowerBi_Sales-Analysis/Sales.pbix)
+[📥 Download Power BI Project](PowerBi-Sales-Analysis/Sales.pbix)
   
